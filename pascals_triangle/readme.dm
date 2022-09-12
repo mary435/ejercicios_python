@@ -1,4 +1,4 @@
-Ejercicio 11.9: Pascal
+Pascal
 
 El triángulo de Pascal es un arreglo triangular de números que se define de la siguiente manera: 
 Las filas se enumeran desde n = 0, de arriba hacia abajo. Los valores de cada fila se enumeran 
@@ -13,8 +13,8 @@ Ejemplo:
 >>> pascal(5, 2)
 10
 
-
-Exercise 11.9: Pascal
+--------------------------------------------------------------------------------------
+Pascal
 
 Pascal's triangle is a triangular array of numbers that is defined as follows:
 Rows are numbered from n = 0, from top to bottom. The values of each row are listed
