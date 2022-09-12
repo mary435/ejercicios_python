@@ -5,7 +5,7 @@ Created on Fri Oct 22 15:47:51 2021
 
 @author: marilinaorihuela
 """
-#%% Ejercicio 11.11: Búsqueda binaria 
+#%% Búsqueda binaria 
 
 def bbinaria_rec(lista, e):
     if len(lista) == 0:
