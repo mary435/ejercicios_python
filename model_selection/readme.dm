@@ -1,4 +1,4 @@
-Ejercicio 11.18: selección de modelos
+Selección de modelos
 
 El criterio de información de Akaike es una medida de la calidad relativa de un modelo estadístico, 
 para un conjunto dado de datos. Como tal, el AIC proporciona un medio para la comparación de modelos. 
@@ -11,7 +11,7 @@ Si seleccionamos el modelo ya no por su bondad de ajuste (ECM) sino buscando el 
 
 
 
-Exercise 11.18: Model selection
+Model selection
 
 Akaike's information criterion is a measure of the relative quality of a statistical model,
 for a given set of data. As such, the AIC provides a means for model comparison.
