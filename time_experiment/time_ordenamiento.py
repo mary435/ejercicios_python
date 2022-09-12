@@ -198,6 +198,4 @@ def experimento_timeit(Nmax):
     
 if __name__ == '__main__':
     experimento_timeit(10)
-    
-'''¿Coinciden las curvas con lo que habías predicho estimando el número de operaciones?
-No, pensaba que el metodo de burbujeo iba a ser mas rápido, que insercion y seleccion.'''
+
