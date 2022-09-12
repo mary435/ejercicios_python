@@ -1,4 +1,4 @@
-Ejercicio 12.2: burbujeo
+Burbujeo:
 
 El ordenamiento por burbujeo se basa en una idea bastante sencilla. El algoritmo compara dos elementos contiguos 
 de la lista y, si el orden es adecuado, los deja como están, si no, los intercambia. La repetición de este paso 
@@ -17,7 +17,7 @@ Programá una función ord_burbujeo(lista) que implemente este método de ordena
 Extra: ¿Podés escribir una versión recursiva de este algoritmo?
 
 
-Exercise 12.2: bubbling
+Bubbling
 
 Bubble sort is based on a fairly simple idea. The algorithm compares two contiguous elements
 from the list and, if the order is correct, it leaves them as they are, if not, it exchanges them. Repeating this step
