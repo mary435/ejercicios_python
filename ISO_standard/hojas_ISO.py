@@ -5,7 +5,7 @@ Created on Fri Oct 22 16:57:05 2021
 
 @author: marilinaorihuela
 """
-#%% Ejercicio 11.13: Hojas ISO y recursión
+#%% Hojas ISO y recursión
 
 def medidas_hoja_A(N):
     '''Para una entrada N mayor que cero, devuelva el ancho y el largo de 
