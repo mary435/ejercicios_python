@@ -6,7 +6,7 @@ Created on Fri Oct 22 13:10:18 2021
 @author: marilinaorihuela
 """
 
-#%% Ejercicio 11.9: Pascal
+#%% Pascal
 
 def pascal(n, k):
     'Devuelve el valor de pascal para fila n y columna k'
