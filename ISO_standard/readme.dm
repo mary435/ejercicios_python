@@ -1,4 +1,4 @@
-Ejercicio 11.13: Hojas ISO y recursión
+Hojas ISO y recursión
 
 La norma ISO 216 especifica tamaños de papel. Es el estándar que define el popular tamaño de papel A4 
 (210 mm de ancho y 297 mm de largo). Las hojas A0 miden 841 mm de ancho y 1189 mm de largo. A partir de la A0 las 
@@ -11,7 +11,7 @@ La función debe devolver el ancho y el largo -en ese orden- en una tupla.
 
 
 
-Exercise 11.13: ISO sheets and recursion
+ISO sheets and recursion
 
 The ISO 216 standard specifies paper sizes. It is the standard that defines the popular A4 paper size
 (210mm wide and 297mm long). A0 sheets measure 841mm wide and 1189mm long. Starting from A0 the
